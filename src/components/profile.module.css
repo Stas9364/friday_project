@@ -1,0 +1,36 @@
+.profile{
+    background-size: 100%;
+    /*background-image: url("../../assets/bereg_morya_vecherom_na_zakate-2880x1901.jpg");*/
+    background-color: black;
+    /*background-repeat: no-repeat;*/
+    height:100vh;
+    padding-top: 1%;
+
+}
+.border{
+    background: #FFFFFF;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1), -1px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    margin: 5% 25%;
+    text-align: center;
+    /*position: absolute;*/
+}
+.border img{
+    width: 96px;
+    height: 96px;
+    left: 593px;
+    top: 204px;
+
+    /*background: url(.png);*/
+}
+.border button{
+    width: 127px;
+    height: 36px;
+    left: 577px;
+    top: 408px;
+
+    background: #FCFCFC;
+    box-shadow: 0 2px 10px rgba(109, 109, 109, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    margin-bottom: 1%;
+}
